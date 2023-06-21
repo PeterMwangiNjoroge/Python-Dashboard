@@ -1,5 +1,5 @@
 # Python-Dashboard
-This is a sales and profits dashboard developed with python, dash and pandas.
+This sales and profits dashboard was developed with Python, dash, and Pandas.
 
 To run the project
 1. Create a virtual environment ```python -m venv env```
@@ -8,3 +8,6 @@ To run the project
 4. Install dash ```pip install dash```
 5. Install dash bootstrap component ```pip install dash-bootstrap-components```
 6. After all the dependencies are installed, now you can run the project ```python app.py```
+
+You can also view a running pythonanywhere instance on https://petermaara2.pythonanywhere.com/
+
